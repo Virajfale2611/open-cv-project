@@ -14,7 +14,7 @@ import requests
 import json
 
 # GitHub repository URL
-repo_url = "https://api.github.com/repos/96gang96/ImagesDump/git/trees/main?recursive=1"
+repo_url = "https://github.com/Virajfale2611/open-cv-project.git"
 
 def download_images_from_github(repo_url):
     # Fetch the tree structure of the repository
